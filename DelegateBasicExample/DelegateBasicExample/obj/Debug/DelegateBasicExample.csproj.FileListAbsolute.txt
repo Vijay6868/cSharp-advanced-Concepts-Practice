@@ -1,0 +1,7 @@
+C:\Users\VJ\OneDrive\Desktop\Developer\school-HR-Administration\DelegateBasicExample\DelegateBasicExample\bin\Debug\DelegateBasicExample.exe.config
+C:\Users\VJ\OneDrive\Desktop\Developer\school-HR-Administration\DelegateBasicExample\DelegateBasicExample\bin\Debug\DelegateBasicExample.exe
+C:\Users\VJ\OneDrive\Desktop\Developer\school-HR-Administration\DelegateBasicExample\DelegateBasicExample\bin\Debug\DelegateBasicExample.pdb
+C:\Users\VJ\OneDrive\Desktop\Developer\school-HR-Administration\DelegateBasicExample\DelegateBasicExample\obj\Debug\DelegateBasicExample.csproj.AssemblyReference.cache
+C:\Users\VJ\OneDrive\Desktop\Developer\school-HR-Administration\DelegateBasicExample\DelegateBasicExample\obj\Debug\DelegateBasicExample.csproj.CoreCompileInputs.cache
+C:\Users\VJ\OneDrive\Desktop\Developer\school-HR-Administration\DelegateBasicExample\DelegateBasicExample\obj\Debug\DelegateBasicExample.exe
+C:\Users\VJ\OneDrive\Desktop\Developer\school-HR-Administration\DelegateBasicExample\DelegateBasicExample\obj\Debug\DelegateBasicExample.pdb
